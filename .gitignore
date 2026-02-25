@@ -1,0 +1,12 @@
+# Exclude original HEIC files (converted JPGs are used instead)
+*.heic
+
+# Exclude large binary files
+*.dmg
+*.pdf
+*.zip
+*.rar
+
+# OS files
+.DS_Store
+Thumbs.db
